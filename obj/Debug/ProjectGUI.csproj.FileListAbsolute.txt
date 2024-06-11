@@ -1,0 +1,15 @@
+D:\Programming\C# Project\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.csproj.AssemblyReference.cache
+D:\Programming\C# Project\ProjectGUI\ProjectGUI\obj\Debug\MainWindow.g.cs
+D:\Programming\C# Project\ProjectGUI\ProjectGUI\obj\Debug\App.g.cs
+D:\Programming\C# Project\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI_MarkupCompile.cache
+D:\Programming\C# Project\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI_MarkupCompile.lref
+D:\Programming\C# Project\ProjectGUI\ProjectGUI\bin\Debug\ProjectGUI.exe.config
+D:\Programming\C# Project\ProjectGUI\ProjectGUI\bin\Debug\ProjectGUI.exe
+D:\Programming\C# Project\ProjectGUI\ProjectGUI\bin\Debug\ProjectGUI.pdb
+D:\Programming\C# Project\ProjectGUI\ProjectGUI\obj\Debug\MainWindow.baml
+D:\Programming\C# Project\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.g.resources
+D:\Programming\C# Project\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.Properties.Resources.resources
+D:\Programming\C# Project\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.csproj.GenerateResource.cache
+D:\Programming\C# Project\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.csproj.CoreCompileInputs.cache
+D:\Programming\C# Project\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.exe
+D:\Programming\C# Project\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.pdb
